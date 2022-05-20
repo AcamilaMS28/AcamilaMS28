@@ -1,5 +1,5 @@
 Hola mi nombre es Ana Camila
-actualmenteestoy estudiando el curso de fundamentos en programacion web
+actualmente estoy estudiando el curso de fundamentos en programacion web
 
 
 <!--
