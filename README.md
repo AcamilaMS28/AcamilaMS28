@@ -1,4 +1,6 @@
-### Hi there 👋
+Hola mi nombre es Ana Camila
+ahorita estoy estudiando el curso de fundamentos en programacion web
+
 
 <!--
 **AcamilaMS28/AcamilaMS28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
